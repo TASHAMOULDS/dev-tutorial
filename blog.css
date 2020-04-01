@@ -111,7 +111,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 4rem;
 	font-family: 'Lucida Console';
 }
-
+#thumb{
+	width:300px;
+	height:inherit;
+}
 .blog-post-title {
   margin-bottom: .25rem;
   font-size: 2.5rem;
