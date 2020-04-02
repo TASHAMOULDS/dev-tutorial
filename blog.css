@@ -117,11 +117,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 #story{
 	height:500px;
-	width:inherit
+	width:inherit;
+	padding-bottom:20px;
 }
 #game{
 	height:400px;
 	width:550px;
+}
+#comic{ 
+	height:800px;
+    width:480px;
 }
 .blog-post-title {
   margin-bottom: .25rem;
